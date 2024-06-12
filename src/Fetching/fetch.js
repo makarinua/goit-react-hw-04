@@ -4,7 +4,7 @@ export default async function fetch(searchWord, page) {
     const BASE_URL = `https://api.unsplash.com/search/photos`
 
     const params = {
-        client_id: 'PjFdJ4cdVCRgQuCNtuY3vP1RrBR-dP-Lnitmtwm1A5E',
+        client_id: 'romuwQPowLxOF55i8dah2Z4aqNuJ6vdzWY2B2U9a4Jo',
         per_page: 20,
         query: searchWord,
         page,
